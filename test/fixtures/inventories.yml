@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_id: 1
+  name: MyText
+  item_status: MyText
+  quantity: 1
+  markup: 9.99
+  amount_sold: 1
+  current_order_amount: 1
+  category: MyText
+
+two:
+  item_id: 1
+  name: MyText
+  item_status: MyText
+  quantity: 1
+  markup: 9.99
+  amount_sold: 1
+  current_order_amount: 1
+  category: MyText
